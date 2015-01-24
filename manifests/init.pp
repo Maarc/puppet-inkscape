@@ -8,6 +8,6 @@ class inkscape {
 
   package { 'Inkscape':
     provider => 'appdmg',
-    source   => 'http://downloads.sourceforge.net/inkscape/Inkscape-0.48.2-1-SNOWLEOPARD.dmg',
+    source   => 'http://downloads.sourceforge.net/project/inkscape/inkscape/0.48.5/Inkscape-0.48.5-2%2BX11.dmg',
   }
 }
